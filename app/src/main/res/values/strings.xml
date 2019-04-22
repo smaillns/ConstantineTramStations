@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations_array">
+        <item>Ben Abdelmalek Remdane</item>
+        <item>Belle vue</item>
+        <item>Kadous Boumedous</item>
+        <item>Emir Abdelkader</item>
+        <item>Fadhila saadane</item>
+        <item>Station palma</item>
+        <item>Université Mentourie</item>
+        <item>Residence universitaire Mentourie</item>
+        <item>cité Kheznadar</item>
+        <item>Zouaghi slimane</item>
+    </string-array>
+
+
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
